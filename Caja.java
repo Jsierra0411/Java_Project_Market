@@ -1,7 +1,7 @@
 package com.example.parcial_java_jorge_sierra;
 
 public class Caja {
-
+     #prueba
     private Persona persona;
     private double CantidadDinero;
     private int CantidadTicketsDia;
